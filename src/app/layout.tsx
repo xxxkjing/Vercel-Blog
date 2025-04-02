@@ -15,7 +15,7 @@ import { Meta } from './meta';
 
 export const metadata = {
   ...createMetadata({
-    title: 'xkjing\'s blog',
+    title: "xkjing's blog",
     description:
       // eslint-disable-next-line @stylistic/max-len
       "A blog created by xkjing, maybe paused due to exams.",
