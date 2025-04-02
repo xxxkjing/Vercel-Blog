@@ -45,7 +45,7 @@ export default function RootLayout(props: PropsWithChildren) {
   return (
     <html
       id={'page'}
-      lang={'en'}
+      lang={'zh-cn'}
       className={cx(
         Inter.variable,
         Manrope.variable,
