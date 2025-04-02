@@ -15,22 +15,22 @@ import { Meta } from './meta';
 
 export const metadata = {
   ...createMetadata({
-    title: 'Jahir Fiquitiva – Frontend Software Engineer',
+    title: 'xkjing's blog',
     description:
       // eslint-disable-next-line @stylistic/max-len
-      "I'm a passionate and creative frontend software engineer from Colombia 🇨🇴. Visit my website to learn more about me and my projects",
+      "A blog created by xkjing, maybe paused due to exams.",
     keywords: [
-      'jahir fiquitiva',
-      'jahir',
-      'fiquitiva',
-      'jahirfiquitiva',
+      'xkjing',
+      'xiajing',
+      'blog',
+      'metaillusion',
       'open-source',
       'full-stack',
       'frontend',
-      'software engineer',
-      'colombia',
+      'china',
+      'shanghai',
       'bio',
-      'developer',
+      'high school student',
       'portfolio',
       'development',
       'android',
